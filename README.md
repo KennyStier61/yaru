@@ -10,22 +10,11 @@ It contains:
  * an icon & cursor theme, derived from the Unity8 Suru icons and [Suru icon](https://snwh.org/suru) theme
  * a sound theme, combining sounds from the [WoodenBeaver](https://github.com/madsrh/WoodenBeaver) and [Touch-Remix](https://github.com/madsrh/TouchRemix) sound themes.
  
-![Files](https://i.imgur.com/Z2rJUjN.png)
+![Light](https://i.imgur.com/O19i9bn.png)
 
-![FilesDark](https://i.imgur.com/6jE83Uc.png)
+![Normal](https://i.imgur.com/2l6O9wj.png)
 
-![Dash](https://i.imgur.com/clAKaoi.png)
-
-![Appgrid](https://i.imgur.com/SYiF2Sc.png)
-
-![ShellPopups](https://i.imgur.com/lYdieEX.png)
-
-![Shell OSD](https://i.imgur.com/K3KRgzz.png)
-
-![widgetfactorylight](https://i.imgur.com/ZgT7rtu.png)
-
-![widgetfactorydark](https://i.imgur.com/5VG9wGB.png)
-
+![Dark](https://i.imgur.com/pvPEmAk.png)
 
 ## Using Yaru on Ubuntu
 
@@ -37,23 +26,6 @@ The Yaru theme suite is installed with Ubuntu 18.10+ by default! No further step
 
 _Installing from source is not recommended for average usage!_
 
-
-## Using a legacy Yaru/Communitheme version on Ubuntu 18.04 (bionic beaver) via snap installation
-
-> Note that for backward compatibility, we kept the name "communitheme" for bionic beaver. Only icon and sound updates will be pushed into this version of the theme suite.
-
-_These steps only work on Ubuntu 18.04 (bionic beaver)! DO NOT install the snap on 18.10+ installations!_
-
-Follow these steps in order to install and enable communitheme.
-
-1. Install the communitheme snap on 18.04 by installing `communitheme` in the Ubuntu Software Application or running `snap install communitheme`.
-2. Restart your computer.
-4. Click on your user, click on the gear icon and select the "Ubuntu with communitheme snap" session from the pop-up, and login.
-3. Now Ubuntu is using the communitheme including the system, applications, icons, sounds and the cursor.
-
-![install](https://i.imgur.com/Vykmt6N.gif)
-
-![login](https://i.imgur.com/1boZU4F.gif)
 
 ## Copying or Reusing
 
