@@ -1,7 +1,5 @@
 # Ubuntu Yaru theme suite
 
-Snap build status: [![Build Status](https://travis-ci.org/ubuntu/yaru.svg?branch=master)](https://travis-ci.org/ubuntu/yaru)
-
 Yaru is the default theme for Ubuntu, backed by the community.
 
 It contains:
@@ -22,10 +20,15 @@ Change the Ubuntu Dock Color with
 
 `gsettings set org.gnome.shell.extensions.dash-to-dock custom-theme-running-dots-color "#5294E2"`
 
-The Yaru theme suite is installed with Ubuntu 18.10+ by default! No further steps are required to use it.
 
-_Installing from source is not recommended for average usage!_
-
+```
+sudo apt install git meson sassc libglib2.0-dev libxml2-utils
+git clone https://github.com/KennyStier61/yaru
+cd yaru
+meson build
+cd build
+sudo ninja install
+```
 
 ## Copying or Reusing
 
