@@ -29,6 +29,10 @@ It contains:
 
 ## Using Yaru on Ubuntu
 
+Change the Ubuntu Dock Color with
+
+`gsettings set org.gnome.shell.extensions.dash-to-dock custom-theme-running-dots-color "#5294E2"`
+
 The Yaru theme suite is installed with Ubuntu 18.10+ by default! No further steps are required to use it.
 
 _Installing from source is not recommended for average usage!_
